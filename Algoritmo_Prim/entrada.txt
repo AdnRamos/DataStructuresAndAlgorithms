@@ -1,0 +1,19 @@
+7 11
+A
+B
+C
+D
+E
+F
+G
+AB 7
+AD 5
+BC 8
+BD 9
+BE 7
+CE 5
+DE 15
+DF 6
+EF 8
+EG 9
+FG 11
